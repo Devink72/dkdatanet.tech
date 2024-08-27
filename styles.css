@@ -1,9 +1,9 @@
-div{
-	color: blue;
-	background-color: black;
-	text-align: center;
-}
-
 body{
-	background-color: gray;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 500px;
+	margin-left: 500px;
+	background-color: #001b15;
+	font-family: 'Cascadia Code', monospace;
+	font-size: 14pt;
 }
